@@ -2,7 +2,7 @@
 title: Nevas Webseite
 description: Hallo Welt - Gestern ging ich ins Internet 🐰
 author: Neva
-date: 2022-12-18T10:00:58.476Z
+date: 2022-11-18T10:00:58.476Z
 tags:
   - Tags
 ---
